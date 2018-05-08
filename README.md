@@ -25,8 +25,10 @@ $db['default'] = array(
 and finally you must migrate provided 'zet-test-task.sql' file and that is it you are good to go.
 
 To see how project look like live visit https://test-task-001.herokuapp.com 
-*To upload picture just drop picture and push button upload image, other fields is just optional*
-*To search just enter phrase in search input field and hit [enter]*
+```
+To upload picture just drop picture and push button upload image, other fields is just optional
+To search just enter phrase in search input field and hit [enter]
+```
 
 During project development was created few files 
 ```
