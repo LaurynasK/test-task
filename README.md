@@ -5,7 +5,7 @@ Task to create Gallery page
 
 This test task built on top of CodeIgniter 3.1.8 (latest as of 2018-05-08)
 
-###To successfully install web app you must edit few config files and migrate sql file to your mySQL
+### To successfully install web app you must edit few config files and migrate sql file to your mySQL
 
 #### 1) application/config.php:
 ```
