@@ -7,6 +7,13 @@ This test task built on top of CodeIgniter 3.1.8 (latest as of 2018-05-08)
 
 ### To successfully install web app you must edit few config files and migrate sql file to your mySQL
 
+### 0) Prerequirements 
+```
+I noticed that project in heroku enviroment do not 
+create thumbnails after quick research i find out that 
+ext-md php package must be installed 
+```
+
 #### 1) application/config.php:
 ```
 $config['base_url'] = `your url`;
