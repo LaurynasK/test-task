@@ -32,6 +32,7 @@ To search just enter phrase in search input field and hit [enter]
 
 During project development was created few files 
 ```
+  application/controllers/Welcome.php // To show view and handle search request 	
   application/controllers/Upload.php  // to handle upload action from front-ent
   application/libraries/Thumbnail.php // to handle resize of picture
   application/models/File_model.php   // to hande all data operations including search, pagination actions
