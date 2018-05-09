@@ -32,7 +32,7 @@ $db['default'] = array(
 and finally you must migrate provided 'zet-test-task.sql' file and that is it you are good to go.
 
 To see how project look like live visit https://test-task-001.herokuapp.com 
-please note that heroku (free tier) deletes all uploaded files so few "cards" might be empty. 
+please note that heroku (free tier) deletes all uploaded files, few hours after upload, so few "cards" might be empty. 
 ```
 To upload picture just drop picture and push button upload image, other fields is just optional
 To search just enter phrase in search input field and hit [enter]
